@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hi everyone,
 Welcome to DevOps Sessions!
+=======
+Hi all,
+Welcome to DevOps Sessions! 
+>>>>>>> testing
