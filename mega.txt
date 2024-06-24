@@ -1,2 +1,2 @@
 Hi everyone,
-Welcome to DevOps Sessions!
+Welcome to session on executing T-REX game through CI/CD tool Jenkins!
